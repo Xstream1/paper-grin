@@ -1,8 +1,9 @@
-# paper-turtle
+# paper-grin
 
-**TurtleCoin Paper Wallet Generator**
+**Grin Coin Paper Wallet Generator**
 
-https://turtlecoin.lol/wallet
+Please donate grin if this works
+https://rhox.icu 
 
 ## LICENSE
 
